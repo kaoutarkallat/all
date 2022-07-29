@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid rgb(216, 56, 56);
+    border-collapse: collapse;
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: #037474;
+  }
